@@ -48,6 +48,10 @@ body {
   .mis_trabajos {
     background-color: #05A;
   }
+  .text-button {
+    text-decoration: none;
+    color: #05A;
+  }
   
   /* Contacto */
   
