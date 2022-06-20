@@ -1,0 +1,63 @@
+.navbar {
+    font-family: 'Roboto-medium', sans-serif;
+    background-color: #28A745;
+
+}
+
+.logo_navbar {
+    height: 60px;
+}
+
+
+.card-title {
+    font-family: 'Roboto-medium', sans-serif;
+    font-size: 20px;
+    color: #212529;
+
+}
+
+.parrafo2 {
+    font-family: 'Roboto-light', sans-serif;
+    font-size: 16px;
+    color: #707070;
+}
+
+.parrafo3 {
+    font-family: 'Roboto-light', sans-serif;
+    font-size: 13px;
+    color: #707070;
+}
+
+.texto2 {
+    font-family: 'Roboto-light', sans-serif;
+    font-size: 16px;
+    color: #707070;
+}
+
+.parrafo1 {
+    font-family: 'Roboto-medium', sans-serif;
+    font-size: 20px;
+    color: #28A745;
+}
+
+.formulario {
+    background-color: #28A745;
+    color: white;
+
+}
+
+.colores {
+    text-align: center;
+}
+
+.imagen-footer {
+    width: 82px;
+    height: 24px;
+    ;
+}
+
+.parrafofooter {
+    font-family: 'Roboto-light', sans-serif;
+    font-size: 16px;
+    color: #707070;
+}
